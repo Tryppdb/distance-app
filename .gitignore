@@ -4,4 +4,4 @@ __pycache__/
 log.csv
 .env
 .idea/
-.vscode/
+.vscode/range_card.json
